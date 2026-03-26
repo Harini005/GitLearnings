@@ -1,1 +1,3 @@
 test file 6
+
+Altered data in the remote 
