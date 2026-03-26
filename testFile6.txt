@@ -1,3 +1,4 @@
 test file 6
 
 stash 2
+Altered data in the remote 
