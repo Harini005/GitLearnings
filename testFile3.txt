@@ -1,1 +1,7 @@
 test file 3
+
+Test file
+
+new line added for the git restore
+
+to ammend the commit message and file
